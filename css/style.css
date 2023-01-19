@@ -14,3 +14,7 @@ h1 {
     position: inherit;
     font-size: 20px;
 }
+ul {
+    padding: 50px;
+    margin: 40px;
+}
