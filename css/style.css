@@ -6,14 +6,23 @@
 
 }
 
+#img{
+    display: block;
+    max-width: 100%;
+    height: auto;
+    content: centered;
+}
+
 main{
     display: block;
 }
+
 h1 {
     display: block;
     position: inherit;
     font-size: 20px;
 }
+
 ul {
     padding: 50px;
     margin: 40px;
